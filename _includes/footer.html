@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<footer class="footer-main">
+    {{ site.name }} © {{ site.time | date: '%Y' }} <a class="link" href="{{ site.url }}/feed.xml" target="_blank"><svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg></a>
+
+    <p class="extra">
+        <a class="link" href="http://koppl.in/indigo">Indigo theme</a> by <a class="link" href="http://koppl.in">koppl.in</a>
+    </p>
+=======
+=======
+>>>>>>> d770349d1054e6670fa91b455e854c85193d9563
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>{{ site.title }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description }}</p>
+      </div>
+    </div>
+
+  </div>
+
+<<<<<<< HEAD
+>>>>>>> d770349d1054e6670fa91b455e854c85193d9563
+=======
+>>>>>>> d770349d1054e6670fa91b455e854c85193d9563
+</footer>
