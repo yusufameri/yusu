@@ -1,3 +1,64 @@
+<<<<<<< HEAD
+name: Yusuf Ameri
+bio: 'I like to making things'
+
+# main text of home
+picture: 'assets/images/profile.jpg'
+
+# url: http://whymerry.me
+# your url: http://USERNAME.github.io
+# if testing locally: http://localhost:3000
+url: http://localhost:4000
+
+permalink: /:title/
+
+markdown: kramdown
+highlighter: rouge
+
+analytics-google: 'UA-MYANALYTICS'
+disqus: mydisqus
+
+# if you don't have any of social below, set to false then
+facebook: yusufameri
+twitter: yusufameri
+instagram: ameriwill
+linkedin: yusufameri
+youtube: false
+spotify: false
+github: yusufameri
+email: yusuf.ameri@gmail.com
+
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
+
+# if you don't need about or blog, comment them out below
+about: true
+blog: true # for now, blogs soon to come!
+
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+gems:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+
+jekyll-mentions:
+    base_url: https://github.com
+=======
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -20,3 +81,4 @@ github_username:  yusufameri
 
 # Build settings
 markdown: kramdown
+>>>>>>> d770349d1054e6670fa91b455e854c85193d9563
