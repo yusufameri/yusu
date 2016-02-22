@@ -1,6 +1,4 @@
 ---
-<<<<<<< HEAD
-<<<<<<< HEAD
 title: About
 layout: page
 permalink: /about/index.html
@@ -47,24 +45,3 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
-=======
-=======
->>>>>>> d770349d1054e6670fa91b455e854c85193d9563
-layout: page
-title: About
-permalink: /about/
----
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
-<<<<<<< HEAD
->>>>>>> d770349d1054e6670fa91b455e854c85193d9563
-=======
->>>>>>> d770349d1054e6670fa91b455e854c85193d9563
