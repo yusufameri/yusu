@@ -14,7 +14,7 @@ permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 
-analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-74211234-1'
 disqus: whymerry
 
 # if you don't have any of social below, set to false then
