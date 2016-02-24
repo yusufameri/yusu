@@ -18,9 +18,9 @@ analytics-google: 'UA-74211234-1'
 disqus: whymerry
 
 # if you don't have any of social below, set to false then
-facebook: yusufameri
+facebook: false
 twitter: yusufameri
-instagram: ameriwill
+instagram: false
 linkedin: yusufameri
 youtube: false
 spotify: false
