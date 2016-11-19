@@ -270,7 +270,7 @@ html {
 }
 body {
   line-height: 1;
-  font: 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 36px "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 color alpha {
   -webkit-font-smoothing: antialiased;
@@ -375,7 +375,7 @@ pre {
 }
 .wrapper {
   height: 100%;
-  max-width: 560px;
+  max-width: 760px;
   width: 96%;
   margin: 0 auto;
 }
@@ -720,7 +720,7 @@ pre {
 }
 .nav {
   position: absolute;
-  right: 0;
+  left: 0;
   top: 0;
 }
 .nav > .list {
