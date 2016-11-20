@@ -33,3 +33,5 @@ Feel free to contact me if you would like to collaborate on a machine learning, 
   <li><a href="https://devpost.com/software/charityapi-qrem6z">Charity API</a></li>
   <li><a href="https://devpost.com/software/whichbus-7mhces">WhichBus Navigation</a></li>
 </ul>
+
+My [Resume]({{ site.url }}/{{ site.resume }})
