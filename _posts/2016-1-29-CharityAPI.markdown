@@ -28,9 +28,9 @@ But the hosting service is slow, so we weren't able to implement all of the data
 ## Built With
 * ruby
 * html
-* csås
+* css
 * javascript
 
 ### Try it Out
-[GitHub Repo](https://github.com/grantmnelson/charityapi)
-[www.charityapi.org](www.charityapi.org)
+* [GitHub Repo](https://github.com/grantmnelson/charityapi)
+* [www.charityapi.org](http://www.charityapi.org)
