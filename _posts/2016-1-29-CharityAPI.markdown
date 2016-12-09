@@ -34,3 +34,4 @@ But the hosting service is slow, so we weren't able to implement all of the data
 ### Try it Out
 * [GitHub Repo](https://github.com/grantmnelson/charityapi)
 * [www.charityapi.org](http://www.charityapi.org)
+* [Documentation](http://docs.charityapi.org/)
