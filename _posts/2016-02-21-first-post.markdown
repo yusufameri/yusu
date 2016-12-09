@@ -6,7 +6,7 @@ tag: markdown
 blog: true
 ---
 
-###Hello friendly user!
+### Hello friendly user!
 
 Welcome to my site! I am still pretty new to [Jekyll](http://Jekyll.com) and everything you see here is currently under construction.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Wrangling and EDA with Lahman Baseball Data (Moneyball)'
+title: 'Does Money buy Baseball games?'
 layout: post
 tag: [exploratory data analysis, visualizations, baseball]
 projects: true

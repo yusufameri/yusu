@@ -1,0 +1,34 @@
+---
+title:  "Dr. Alexa: A Voice Powered Nurse and Triage Assistant"
+layout: post
+date:   2016-10-25 12:24:17 -0500
+tag: [AWS, Amazon Echo, Hackathon]
+projects: true
+description:
+---
+
+![amazon echo picture]({{ site.url }}/assets/images/amazon-echo.jpg)
+
+### Forward
+The following is from a [hackathon](http://medhacks.org/) that took place at Johns Hopkins University on the weekend of Sep. 23-25, 2016. This is the [devpost](https://devpost.com/software/doctor-alexa) that was posted for a project that me and my team worked on.
+
+## Inspiration
+There is a huge problem in the United States with parents and patients not knowing where to go to get treated when they get sick. Often times "soccer moms" will bring their children into their pediatrician the first day that their kids start feeling sick and this is generally not a good thing. In other scenarios, people go to the ER only to wait in long lines and be treated at an inconvenience. Having someone give the right medical advice for a triage would be the best ideal solution to all of these problems in order to decrease healthcare cost and help patients stay healthier and be treated more efficiently.
+
+## What it does
+The Amazon Echo is a smart voice enabled assistant that aims to help patients in the medical triage problem. Dr. Alexa asks a series of questions to get a sense for what the user may be feeling and where they are in pain. After assessing the user and through a series of bayesian statistics modeling, Dr. Alexa triages the patient and provides next steps of action.
+
+## How we built it
+We did a lot of field research given the amazing mentors and breadth of knowledge at Johns Hopkins University. After talking to many different experts in healthcare and pivoting our original idea, we settled on Doctor Alexa and decided to use Amazon Echo as our main platform and user interface. We built our Amazon Echo Skills using Node.js on a lambda function hosted on AWS (Amazon Web Services). This allows our app to scale automatically utilizing thousands of computers in amazons cloud infrastructure.
+
+## Challenges we ran into
+Amazon Echo is a fairly new product from Amazon and its developer community is not that large. Therefore when we got stuck on some problems testing and installing our voice interface, we had very little support both from online discussion forums and from other hackers who had experience using Amazon Echo. Luckily, the few people who were also using echo were able to help us overcome a few obstacles. Another challenge we had was aggregating the right set of questions to have alexa ask in order to correctly predict the most likely disease/illness.
+
+## Accomplishments that we are proud of
+We are really proud of the product we were able to make and the real life problems that Doctor Alexa will solve. We talked to many Doctors and Physicians this weekend and they told us first hand the many problems of the healthcare system that a service like Doctor Alexa will solve. Doctor Alexa will help the public health industry, insurance companies, and most importantly help people by guiding them to cheaper, faster and better healthcare.
+
+## What We learned
+Neither of us new any node.js, aws, or even javascript before starting this project. To say that there was a lot that we learned would be a huge understatement. Learning how a voice interface works was extremely insightful and made us appreciate the technology that we take for granted so much.
+
+## What's next for Doctor Alexa
+We think that the Amazon Echo is here to stay and as technology advances with more sophisticated natural language processing algorithms, we will be able to create a more user friendly product. We would like to work with other existing triage and symptom-illness services that are already available to add to our resources. We think that we can aggregate a lot of the patient data that already exists to make Doctor Alexa much better at asking the right questions so that she may provide more insightful suggestions for her users.
