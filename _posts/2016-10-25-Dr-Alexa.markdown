@@ -32,3 +32,9 @@ Neither of us new any node.js, aws, or even javascript before starting this proj
 
 ## What's next for Doctor Alexa
 We think that the Amazon Echo is here to stay and as technology advances with more sophisticated natural language processing algorithms, we will be able to create a more user friendly product. We would like to work with other existing triage and symptom-illness services that are already available to add to our resources. We think that we can aggregate a lot of the patient data that already exists to make Doctor Alexa much better at asking the right questions so that she may provide more insightful suggestions for her users.
+
+## Built With
+* amazon-web-services
+* amazon-alexa
+* node.js
+* javascript
