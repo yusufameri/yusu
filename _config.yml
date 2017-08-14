@@ -1,14 +1,14 @@
 name: Yusuf Ameri
-bio: 'Hackathon Hacker, Creator'
+bio: 'Learning Since 1997'
 
 # main text of home
 picture: '/assets/images/profile1.jpg'
 resume: 'assets/pdfs/ResumeSpring2017.pdf'
 
-url: http://yusufameri.github.io
+# url: http://yusufameri.github.io
 # your url: http://USERNAME.github.io
 # if testing locally: http://localhost:3000
-# url: http://localhost:4000
+url: http://localhost:4000
 
 permalink: /:title/
 
