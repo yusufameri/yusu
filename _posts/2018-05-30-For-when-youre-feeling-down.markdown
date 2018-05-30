@@ -6,6 +6,8 @@ tag: [personal, self talk, introspective]
 blog: true
 ---
 
+![abyss]({{ site.url }}/assets/images/abyss.jpeg)
+
 ### Note to others:
 The following is a note I am writing/wrote to myself to reflect back on in times of (dis)stress. They are not meant to be targeted towards a general audience but if you find value in the message and it resonates with you, by all means feel free to bookmark this page and/or share with a friend in need.
 
@@ -15,6 +17,7 @@ Yusuf
 ### Why this exists
 
 Whenever I am feeling down or feel that I have no control or "out" in a situation in my life, I need to remind myself of the times and mindset I had that got me out of where I was. It seems to happen seasonally (although I am young, and have not experienced many seasons) and can creep onto me without my noticing. Nevertheless, here is what you, Yusuf, should know and understand if you are feeling lost at this time of your life.
+
 
 # (start here) For when you're feeling down...
 You will persevere. Read that again.
