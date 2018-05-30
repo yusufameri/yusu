@@ -3,7 +3,7 @@ title:  "Metrics Monitoring for your Spark Cluster!"
 layout: post
 date:   2017-6-28 16:16:17 -0500
 tag: [Spark, Metrics Monitoring, Real Time, Grafana, Graphite]
-blog: true
+projects: true
 description: A guide to visualize your spark apps!
 ---
 

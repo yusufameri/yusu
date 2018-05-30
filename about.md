@@ -65,4 +65,4 @@ I am passionate about education and love teaching, especially to new programmers
 	<li>A Cards Against Humanity game for mobile and web (stay tuned!)</li>
 </ul>
 
-My [Resume]({{ site.url }}/{{ site.resume2 }})
+My [Resume]({{ site.url }}/{{ site.resume }})
